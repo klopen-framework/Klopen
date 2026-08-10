@@ -1,0 +1,12 @@
+﻿# Klopen Framework — runtime dependencies
+pdfplumber>=0.10.0
+pymupdf>=1.24.0
+PyPDF2>=3.0.0
+spacy>=3.7.0
+openpyxl>=3.1.0
+PyYAML>=6.0
+pydantic>=2.5.0
+
+# After install also run:
+#   python -m spacy download en_core_web_sm
+pandas>=2.0
